@@ -1,26 +1,46 @@
 # Learning Jenkins Pipeline
 
-This is just a basic guide to simulate how to set-up a Jenkins Pipeline
+This is just a basic guide on how to simulate how to set-up a Jenkins Pipeline
 
 # Sample Pipeline Script
 
 1. Spin up Jenkins Server
 
+![Alt text](image.png)
+
 2. Launch it on the browser with your credentials
 
+![Alt text](image-1.png)
+
 3. On the Dashboard page Click a new item
+
+![Alt text](image-2.png)
 
 4. Enter an item name and then Select Pipeline
 
 5. Click ok
 
+![Alt text](image-3.png)
+
 6. Navigate and Click the Pipeline and Select Pipeline Script
+
+![Alt text](image-4.png)
+
+![Alt text](image-5.png)
 
 7. Select "Hello World" on the drowndown as shown below
 
+![Alt text](image-6.png)
+
 8. "Hello World" Script is generated .Click apply and save the changes
 
+![Alt text](image-7.png)
+
 9. Select Build Now from the new pipeline to test that the configuration works perfectly as seen below
+
+![Alt text](image-8.png)
+
+![Alt text](image-10.png)
 
 #### Build 1 is successful
 
@@ -66,13 +86,22 @@ agent any
 
 13. Click the build Number 1
 
-14. Click Replay to modify the codes in the pipeline script section
+![Alt text](image-11.png)
 
-15. View the old script and new script that it was modified into below
+14. Click Replay to modify the codes in the pipeline script section.
+    You can view the old script and new script that it was modified into below
+
+![Alt text](image-12.png)
+
+![Alt text](image-13.png)
 
 16. Click the Run Button
 
+![Alt text](image-14.png)
+
 #### Build 2 and Build 3 can be seen successful with the pipeline scripts modified to the one that was created
+
+![Alt text](image-15.png)
 
 ## Sample Pipeline Script
 
