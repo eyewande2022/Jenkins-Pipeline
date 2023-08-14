@@ -60,12 +60,7 @@ agent any
             steps{
 
                 dir('/var') {
-    // some block
-
-}
-}}
-}
-}
+    // some block   }}}}}
 
 Click apply and save the changes
 
