@@ -4,11 +4,11 @@ This is just a basic guide to simulate how to set-up a Jenkins Pipeline
 
 # Sample Pipeline Script
 
-Spin up Jenkins Server
+1 Spin up Jenkins Server
 
-Launch it on the browser with your credentials
+1 Launch it on the browser with your credentials
 
-On the Dashboard page Click a new item
+1 On the Dashboard page Click a new item
 
 Enter an item name and then Select Pipeline
 
