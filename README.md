@@ -4,29 +4,29 @@ This is just a basic guide to simulate how to set-up a Jenkins Pipeline
 
 # Sample Pipeline Script
 
-1 Spin up Jenkins Server
+1. Spin up Jenkins Server
 
-1 Launch it on the browser with your credentials
+2. Launch it on the browser with your credentials
 
-1 On the Dashboard page Click a new item
+3. On the Dashboard page Click a new item
 
-Enter an item name and then Select Pipeline
+4. Enter an item name and then Select Pipeline
 
-Click ok
+5. Click ok
 
-Navigate and Click the Pipeline and Select Pipeline Script
+6. Navigate and Click the Pipeline and Select Pipeline Script
 
-Select "Hello World" on the drowndown as shown below
+7. Select "Hello World" on the drowndown as shown below
 
-"Hello World" Script is generated .Click apply and save the changes
+8. "Hello World" Script is generated .Click apply and save the changes
 
-Select Build Now from the new pipeline to test that the configuration works perfectly as seen below
+9. Select Build Now from the new pipeline to test that the configuration works perfectly as seen below
 
-Build 1 is successful
+#### Build 1 is successful
 
-The next step would be for us to create our own pipeline script by simply repeating the previous steps
+10. The next step would be for us to create our own pipeline script by simply repeating the previous steps
 
-In the pipeline script sectipn paste the code below
+11. In the pipeline script sectipn paste the code below
 
 pipeline {
 agent any
@@ -62,16 +62,17 @@ agent any
                 dir('/var') {
     // some block   }}}}}
 
-Click apply and save the changes
+12. Click apply and save the changes
 
-Click the build Number 1
-Click Replay to modify the codes in the pipeline script section
+13. Click the build Number 1
 
-View the old script and new script that it was modified into below
+14. Click Replay to modify the codes in the pipeline script section
 
-And Click the Run Button
+15. View the old script and new script that it was modified into below
 
-Build 2 and Build 3 can be seen successful with the pipeline scripts modified to the one that was created
+16. Click the Run Button
+
+#### Build 2 and Build 3 can be seen successful with the pipeline scripts modified to the one that was created
 
 ## Sample Pipeline Script
 
