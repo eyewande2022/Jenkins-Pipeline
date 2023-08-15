@@ -4,7 +4,7 @@ This is just a basic guide on how to simulate how to set-up a Jenkins Pipeline
 
 # Sample Pipeline Script
 
-1. Spin up Jenkins Server
+1. Spin up Jenkins Server.
 
 ![Alt text](image.png)
 
