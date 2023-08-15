@@ -102,13 +102,3 @@ agent any
 #### Build 2 and Build 3 can be seen successful with the pipeline scripts modified to the one that was created
 
 ![Alt text](image-15.png)
-
-## Sample Pipeline Script
-
-### Sample Pipeline Script
-
-#### Sample Pipeline Script
-
-##### Sample Pipeline Script
-
-**Table _of_ contents**
